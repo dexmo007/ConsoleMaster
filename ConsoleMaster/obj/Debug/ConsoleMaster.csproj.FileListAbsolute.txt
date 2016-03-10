@@ -1,0 +1,6 @@
+c:\users\henrik\documents\visual studio 2015\Projects\ConsoleMaster\ConsoleMaster\bin\Debug\ConsoleMaster.exe.config
+c:\users\henrik\documents\visual studio 2015\Projects\ConsoleMaster\ConsoleMaster\bin\Debug\ConsoleMaster.exe
+c:\users\henrik\documents\visual studio 2015\Projects\ConsoleMaster\ConsoleMaster\bin\Debug\ConsoleMaster.pdb
+c:\users\henrik\documents\visual studio 2015\Projects\ConsoleMaster\ConsoleMaster\obj\Debug\ConsoleMaster.csprojResolveAssemblyReference.cache
+c:\users\henrik\documents\visual studio 2015\Projects\ConsoleMaster\ConsoleMaster\obj\Debug\ConsoleMaster.exe
+c:\users\henrik\documents\visual studio 2015\Projects\ConsoleMaster\ConsoleMaster\obj\Debug\ConsoleMaster.pdb
